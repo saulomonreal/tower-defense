@@ -1,5 +1,5 @@
 {
-    "name": "Tower Defense",
+    "name": "Shooter game",
     "description": "",
     "dependencies": {
         "device": "*",
